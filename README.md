@@ -7,7 +7,7 @@ sudo apt update
 sudo apt install git -y
 3rd Command
 
-git clone https://github.com/Ayuxd-yt/vpsdeploybot
+https://github.com/ZayroGod/vpsbotdeployZayroGod.git
 4th Command
 
 sudo apt install python3-pip -y
